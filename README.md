@@ -16,3 +16,5 @@ If you want to see demo site, Click here: <a href="https://demo.6amtech.com/6val
 <img src="https://github.com/Almighty11/eCommerce-Client/blob/master/screens/ios_13.png" width="20%"> |
 ### Main Screens
 <img src="https://github.com/Almighty11/eCommerce-Client/blob/master/screens/ios_14.png" width="20%"> | <img src="https://github.com/Almighty11/eCommerce-Client/blob/master/screens/ios_15.png" width="20%"> | <img src="https://github.com/Almighty11/eCommerce-Client/blob/master/screens/ios_17.png" width="20%"> | <img src="https://github.com/Almighty11/eCommerce-Client/blob/master/screens/ios_18.png" width="20%"> |
+### Other Screens
+<img src="https://github.com/Almighty11/eCommerce-Client/blob/master/screens/ios_19.png" width="20%"> | <img src="https://github.com/Almighty11/eCommerce-Client/blob/master/screens/ios_20.png" width="20%"> | <img src="https://github.com/Almighty11/eCommerce-Client/blob/master/screens/ios_21.png" width="20%"> | <img src="https://github.com/Almighty11/eCommerce-Client/blob/master/screens/ios_22.png" width="20%"> |
