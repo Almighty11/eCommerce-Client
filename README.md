@@ -1,4 +1,4 @@
-# Nigeria E-commerce
+# e-Commerce Client
 
 A new Flutter setup application for starting a project.
 
