@@ -5,7 +5,8 @@ A new Flutter setup application for starting a project.
 ## Getting Started
 
 This is a ecormmerce client app by made on flutter.
-You can download that app on here: <a>Download Client App</a>
+You can download that app on here: <a href="https://github.com/Almighty11/eCommerce-Client/blob/master/release/NigeriaStore-Client.apk">Download Client App</a><br>
+If you want to see demo site, Click here: <a href="https://demo.6amtech.com/6valley/">Demo Site</a><br>
 
 ## Screenshots
 
